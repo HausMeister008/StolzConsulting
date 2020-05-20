@@ -57,45 +57,6 @@
     })
     .addTo(controller)
     .setPin('#body')
-    .setTween(Timeline);
-    
-
-
-
-    // Zwischenbilder
-    // var Timeline = new TimelineMax();
-    // Timeline
-    // .from("#lilahemd", 3, {y: "-30%", ease:Power0.easeNone}, 0);   
-    //     var scene4 = new ScrollMagic.Scene({
-    //     triggerElement: "#lila",
-    //     triggerHook: 0.9,
-    //     duration: "120%"
-    // })
-    // .setTween(Timeline)
-    // .addTo(controller);
-
-    // var Timeline2 = new TimelineMax();
-    // Timeline2
-    // .from("#Ingo-Carsten", 3, {y: "-30%", ease:Power0.easeNone}, 0);   
-    
-    // var scene5 = new ScrollMagic.Scene({
-    //     triggerElement: "#carsten",
-    //     triggerHook: 0.9,
-    //     duration: "120%"
-    // })
-    // .setTween(Timeline2)
-    // .addTo(controller);
-
-    // var Timeline3 = new TimelineMax();
-    // Timeline3
-    // .from("#Ingo_nach_unten_schauend", 3, {y: "-50%", ease:Power0.easeNone}, 0);
-    
-    // var scene6 = new ScrollMagic.Scene({
-    //     triggerElement: "#untent",
-    //     triggerHook: 0.9,
-    //     duration: "120%"
-    // })
-    // .setTween(Timeline3)
-    // .addTo(controller);
+    .setTween(Timeline);                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 </script>
 </html>
