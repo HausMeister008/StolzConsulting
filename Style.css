@@ -1,0 +1,192 @@
+@font-face{
+    font-family: MeineSchriftart;
+    src: url(Ubuntu-R.ttf);
+}
+@font-face{
+    font-family: Lato;
+    src: url(Lato2OFL/Lato-BoldItalic.ttf);
+}
+@font-face{
+    font-family: Latoreg;
+    src: url(Lato2OFL/Lato-Regular.ttf);
+}
+@font-face{
+    font-family: Latothin;
+    src: url(Lato2OFL/Lato-Hairline.ttf);
+}
+
+body{
+    font-family: Latoreg;
+}
+h2{
+   font-family: Latothin;
+   color: #808003;
+}
+#Nav{
+    background-color: white;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    width: 85%;
+    height: auto;
+    z-index: 100;
+
+}
+#Nav ul{
+    width: 45%;
+    margin-left: 15%;
+    display: flex;
+    list-style-type: none;
+}
+#Nav li{
+    margin-left: 0;
+    width: 100%;
+    float: right;
+}
+
+#Nav a{
+    text-decoration: none;
+    color: #808003;
+    font-size: larger;
+    font-family: MeineSchriftart;
+}
+#Nav a:hover{
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* .bgc-p{
+    padding: 150px  0;
+    color: white;
+    text-align: center;
+    align-content: center;
+    position: relative;
+    overflow: hidden;
+    height: 25vh;
+} */
+
+.zwischenbild{
+    background-repeat:no-repeat;
+    background-size:cover ;
+    background-attachment:  fixed;
+    width: 100%;
+    filter: grayscale(1);
+    /*
+    position: fixed;
+    height: 150%;
+    top:0;
+    opacity: 1;*/
+    z-index: 1;
+}
+#lilahemd{
+    background-image: url("pics/Ingo Stolz II.jpg");
+}
+#Ingo-Carsten{
+    background-image: url("pics/Ingo Stolz III.jpg");
+}
+#Ingo_nach_unten_schauend{
+    background-image: url("pics/Ingo Stolz IV.jpg");
+}
+#map{
+    filter: grayscale(1) brightness(0.7);
+    border:0;
+    width: 100%;
+    height: 450px;
+}
+#map:hover{
+    filter: grayscale(0);
+}
+#dazwischen{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    right: 0;
+    left: 0;
+    height: auto;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    margin-left: 25%;
+}
+#dazwischen ul{
+    list-style-type: none;
+    display: grid;
+}
+#dazwischen li{
+    font-family: Latoreg;
+    font-size: 2.5vw;
+    color: #808003;
+    font-variant: small-caps;
+    margin-left: -17.5vw;
+    margin-bottom: 5px;
+}
+#work_content{
+    width: 60%;
+}
+#about_content ul{
+    list-style-type: none;
+    text-align: left;
+}
+#about_content li{
+    padding-bottom: 5px;
+}
+#Einleitung{
+    font-family: Lato;
+    margin-top: 25vh;
+    margin-bottom: 45vh;
+    font-size: 1.5vw;
+}
+#philosophy_content ul{
+    list-style-type: none;
+}
+#philosophy_content li{
+    padding-bottom: 7px;
+}
+#contact_content{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-right: 2%;
+    margin-left: 25vw;
+}
+#contact_content ul{
+    list-style-type: none;
+}
+#contact_content h2{
+    margin-left: 3%;
+}
+.content{
+    font-family: sans-serif;
+    margin-left: 25%;
+    width: 50%;
+    font-size: 20px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    opacity: 0;
+    transform: translateY(50px);
+    transform: scale(150%);
+    transition-duration: 1s;
+}
+.content.visible{
+    opacity: 1;
+    transform: translateY(0);
+}
+#start{
+    position: absolute;
+    top: 0;
+}
+#img_start{
+    z-index: 1000;
+    height: auto;
+    width: 100vw;
+    top: 0;
+    margin-top: -5%;
+    height: auto;
+}
+
+#img_text{
+    width: 20%;
+}
