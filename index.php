@@ -46,7 +46,7 @@
     .fromTo('#img_start', 2, {width: "100vw"}, {width: "20vw", x:"25vw", y:"20vh", zIndex: 99})
     .fromTo("#img_text", 1, {autoAlpha: 0, x:"25vw", y:"12vw"}, {autoAlpha:1}, 2)
     .fromTo('#Nav', 1, {opacity:0}, {opacity:1},0)
-    .fromTo('#Nav ul', 3, {width: "70%"}, {width:"45%"},0)
+    .fromTo('#Nav ul', 3, {width: "70%", marginLeft:"5vw"}, {width:"45%", marginLeft:"15%"},0)
     .fromTo('#Einleitung', 1,{autoAlpha:0}, {autoAlpha:1} , 2)
     ;
 
