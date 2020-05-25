@@ -7,8 +7,8 @@
     </ul>
 </div>
 
-<img src="pics\Logo STOLZ_Vecto.jpg" id="img_start" onclick="hoch()">
-<img src="pics\Logo STOLZ only text.jpg" id="img_text" onclick="hoch()">
+<img src="pics\Logo STOLZ_Vecto.png" id="img_start">
+<img src="pics\Logo STOLZ only text_transparent.png" id="img_text">
 <div id="placeholder"></div>
 <div id="Einleitung" class="content">
     <p>"Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken."</p>
