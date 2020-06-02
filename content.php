@@ -1,5 +1,6 @@
 <div id="Nav">
     <ul>
+        <li><a href="#" id="home"><b>home</b></a></li>
         <li><a href="#work_content" id="towork"><b>work</b></a></li>
         <li><a href="#about_content" id="toabout"><b>about</b></a></li>
         <li><a href="#philosophy_content" id="tophilosophy"><b>philosophy</b></a></li>
@@ -7,9 +8,9 @@
     </ul>
 </div>
 
-<img src="pics\Logo STOLZ_Vecto.png" id="img_start">
-<img src="pics\Logo STOLZ only text_transparent.png" id="img_text">
-<div id="placeholder"></div>
+<img src="imgs\Logo STOLZ + Tagline_Vecto Logo.png" id="img_start">
+<img src="imgs\Logo STOLZ + Tagline_Vecto Text.png" id="img_text">
+
 <div id="Einleitung" class="content">
     <p>"Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken."</p>
     <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>

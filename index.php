@@ -5,6 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="Change Management, Leadership, International, Beratung, Consulting, Ingo Stolz, Stolz Consulting">
+    <meta name="author" content="León Graß"/>
+    <meta name="robots" content="index, follow">
     <link rel="stylesheet" type="text/css" href="Style.css">
     <title>Stolz Consulting</title>
     <script src="jquery.js"></script>

@@ -16,11 +16,11 @@
 }
 
 body{
-    font-family: Latoreg;
+    font-family: MeineSchriftart;
 }
 h2{
-   font-family: Latothin;
-   color: #808003;
+   font-family: MeineSchriftart;
+   color: #688d00;
 }
 #Nav{
     background-color: white;
@@ -28,7 +28,6 @@ h2{
     right: 0;
     left: 0;
     top: 0;
-    width: 100%;
     height: auto;
     z-index: 100;
 
@@ -47,7 +46,7 @@ h2{
 
 #Nav a{
     text-decoration: none;
-    color: #808003;
+    color: #688d00;
     font-size: larger;
     font-family: MeineSchriftart;
 }
@@ -81,13 +80,13 @@ html{
     z-index: 1;
 }
 #lilahemd{
-    background-image: url("pics/Ingolilahemd.jpg");
+    background-image: url("imgs/Ingolilahemd small.jpg");
 }
 #Ingo-Carsten{
-    background-image: url("pics/IngoCarsten.jpg");
+    background-image: url("imgs/IngoCarsten.small.jpg");
 }
 #Ingo_nach_unten_schauend{
-    background-image: url("pics/Ingo Stolz IV.jpg");
+    background-image: url("imgs/Ingo Stolz IV.jpg");
 }
 #map{
     filter: grayscale(1) brightness(0.7);
@@ -116,9 +115,9 @@ html{
     display: grid;
 }
 #dazwischen li{
-    font-family: Latoreg;
+    font-family: MeineSchriftart;
     font-size: 2.5vw;
-    color: #808003;
+    color: #688d00;
     font-variant: small-caps;
     margin-left: -17.5vw;
     margin-bottom: 5px;
@@ -137,10 +136,13 @@ html{
     padding-bottom: 5px;
 }
 #Einleitung{
-    font-family: Lato;
-    margin-top: 25vh;
+    margin-left: 22.5%;
+    margin-top: 0%;
+    width: 55%;
+    font-family: MeineSchriftart;
     margin-bottom: 45vh;
     font-size: 1.5vw;
+    z-index: 1002;
 }
 #philosophy_content ul{
     list-style-type: none;
@@ -167,9 +169,8 @@ html{
     width: 50%;
     font-size: 20px;
     padding-top: 3%;
-    padding-bottom: 3%;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 0%;
+    margin-bottom: 5%;
     opacity: 0;
     transform: scale(150%);
     transition-duration: 1s;
@@ -180,19 +181,23 @@ html{
 }
 #start{
     position: absolute;
-    top: 0;
+    top: -1%;
 }
 #img_start{
-    z-index: 1000;
     height: auto;
-    width: 100vw;
-    top: 0;
-    margin-top: -10vh;
     height: auto;
-    border: solid;
-    border-color: rgba(0,0,0, 0);
+    position: relative;
 }
 
 #img_text{
-    width: 30vw;
+    width: 31vw;
+    position: relative;
+    top: 15.5vh;
+    margin-left: 15%;
+}
+
+@media (max-width: 1600px){
+    #img_text{
+        top: 16vh;
+    }
 }
