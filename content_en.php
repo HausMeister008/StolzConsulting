@@ -5,7 +5,7 @@
         <li><a href="#about_content" id="toabout"><b>about</b></a></li>
         <li><a href="#philosophy_content" id="tophilosophy"><b>philosophy</b></a></li>
         <li><a href="#contact_content" id="tocontact"><b>contact</b></a></li>
-        <!-- <li><a href="index_en.php">english</a></li> -->
+        <li><a href="index.php">deutsch</a></li>
     </ul>
 </div>
 
@@ -13,7 +13,7 @@
 <img src="imgs\Logo STOLZ + Tagline_Vecto Text.png" id="img_text">
 
 <div id="Einleitung" class="content">
-    <p><i>Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken.</i></p>
+    <p><i>Together with you, I will build a sustainable management and learning culture to strengthen motivation, innovation and the reputation of your company.</i></p>
     <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>
 </div>
 <!-- <div id="lila" class="bgc-p">-->
@@ -24,12 +24,11 @@
     <h2>WORK</h2>
     <div id="dazwischen" class="content">
     </div>
-    <ul id="ulwork">
-        <li>Wenn Mitarbeitende ihr Potential nutzen und einbringen. </li>
-        <li>Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.</li>
-        <li>Wenn das Unternehmen sich als wertige Marke etabliert.</li>
-        <li>Dann ist das Unternehmen wettbewerbsfähig.</li>
-    </ul>
+    <p>If employees use and contribute their potential. <br>
+    If the company anticipates change and (re-)acts quickly. <br>
+    If the company establishes itself as a valuable brand. <br>
+    Then the company is competitive.
+    </p>
     <ul id="ulover">
         <li>
         <li>
@@ -54,19 +53,19 @@
 
 <div id="about_content" class="content">
     <h2>ABOUT</h2>
-    <p>Ich bin Berater, Coach und Trainer. An der Hochschule Luzern bin ich als Professor für International Leadership & Management tätig.
-        Ich habe Veränderungen durchlebt, während 20+ internationaler Berufsjahre in Projekt-, Management- und Führungsfunktionen, in der Schweiz, Deutschland, Frankreich,
-        Belgien, Mexiko, den USA, Russland und China. Mein Weg führte mich zur Zusammenarbeit mit Firmen und Organisationen wie
+    <p>I am a consultant, coach and trainer. At the Lucerne University of Applied Sciences and Arts I am Professor for International Leadership & Management.
+        I have lived through changes during 20+ international career years in project, management and leadership positions, in Switzerland, Germany, France,
+        Belgium, Mexico, the USA, Russia and China. My path led me to cooperate with companies and organizations such as
     </p>
     <ul>
-        <li>Grossunternehmen: Novartis, Abbott</li>
-        <li>Mittel-und Kleinunternehmen: Vitra, Aargauische Kantonalbank, Tschantré AG</li>
-        <li>Regierungsorganisationen: Goethe-Institut, DAAD</li>
-        <li>Nicht-Regierungsorganisationen: Netzwerk FernosT</li>
-        <li>Öffentliche Einrichtungen: St. Elisabethen Krankenhaus</li>
-        <li>Stiftungen: Robert Bosch Stiftung</li>
-        <li>Bildungsinstitutionen: Universität Freiburg, Ohio State University,</li>
-        <li>University of Minnesota, Staatliche Amur-Universität.</li>
+        <li>Big companies: Novartis, Abbott</li>
+        <li>Medium and small enterprises: Vitra, Aargau Cantonal Bank, Tschantré AG</li>
+        <li>Government organizations: Goethe Institute, DAAD</li>
+        <li>Non-governmental organisations: Netzwerk FernosT</li>
+        <li>Public institutions: St. Elisabeth Hospital</li>
+        <li>Foundations: Robert Bosch Foundation</li>
+        <li>Educational institutions: University of Freiburg, Ohio State University,</li>
+        <li>University of Minnesota, Amur State University</li>
     </ul>
 </div>
 <!--<div id="untent" class="bgc-p">-->
@@ -76,15 +75,14 @@
 
 <div id="philosophy_content" class="content">
     <h2>PHILOSOPHY</h2>
-    <p>Ich bin davon überzeugt, dass</p>
-    <ul>
-        <li>Eine vertrauensvolle Beziehung wichtig ist.</li>
-        <li>Massgeschneiderte Lösungen notwendig sind für den Erfolg.</li>
-        <li>Kontinuierliches und konzentriertes Arbeiten zielführender ist als ein einmalig spektakulärer Erfolg.</li>
-        <li>Integrität, Ehrlichkeit und Transparenz unerlässlich sind für erfolgreiches Arbeiten.</li>
-        <li>Systemdenken wichtig ist, um komplexe Zusammenhänge zu verstehen und die richtigen Lösungen zu identifizieren.</li>
-        <li>Meine Hauptverantwortung in der effektiven und effizienten Entwicklung von organisatorischen und individuellen Kompetenzen liegt.</li>
-        <li>Meine Arbeit Motivation, Innovation und Ansehen von Unternehmen stärkt, und diese Stärkung wiederum zu einer positiven Gesellschaftsentwicklung beiträgt.</li>
+    <p>I am convinced that</p> 
+    <li>A trusting relationship is important.</li>
+    <li>Tailor-made solutions are necessary for success.</li>
+    <li>Continuous and concentrated work is more goal-oriented than a uniquely spectacular success.</li>
+    <li>Integrity, honesty and transparency are essential for successful work.</li>
+    <li>Systems thinking is important to understand complex interrelationships and to identify the right solutions.</li>
+    <li>My main responsibility is the effective and efficient development of organizational and individual competencies.</li>
+    <li>My work strengthens the motivation, innovation and reputation of companies, and this strengthening in turn contributes to a positive development of society.</li>
     </ul>
 </div>
 
