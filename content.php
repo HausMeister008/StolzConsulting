@@ -4,17 +4,18 @@
         <li><a href="#work_content" id="towork"><b>work</b></a></li>
         <li><a href="#about_content" id="toabout"><b>about</b></a></li>
         <li><a href="#philosophy_content" id="tophilosophy"><b>philosophy</b></a></li>
-        <li><a href="#contact_content" id="tocontact"><b>contact</b></a></li>
+        <li><a href="#contact_content" id="tocontact" style="margin-right: 0vw;"><b>contact</b></a></li>
         <!-- <li><a href="index_en.php">english</a></li> -->
     </ul>
 </div>
 
 <img src="imgs\Logo STOLZ + Tagline_Vecto Logo.png" id="img_start">
+<img src="imgs\Logo STOLZ Curve + Box_Vecto2.png" id="img_start_handy">
 <img src="imgs\Logo STOLZ + Tagline_Vecto Text.png" id="img_text">
 
 <div id="Einleitung" class="content">
     <p><i>Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken.</i></p>
-    <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>
+    <p id="signature">Prof. Dr. Ingo Stolz</p>
 </div>
 <!-- <div id="lila" class="bgc-p">-->
 <div class="zwischenbild" id="lilahemd"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
@@ -22,8 +23,6 @@
 
 <div id="work_content" class="content">
     <h2>WORK</h2>
-    <div id="dazwischen" class="content">
-    </div>
     <ul id="ulwork">
         <li>Wenn Mitarbeitende ihr Potential nutzen und einbringen. </li>
         <li>Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.</li>
@@ -39,11 +38,12 @@
                 <li>Training</li>
             </ul>
         </li>
-        <ul class="ulin" style="margin-left: 1vw;">
-            <li>Leadership</li>
-            <li>Change Management</li>
-            <li style="margin-right:0;">International Management</li>
-        </ul>
+        <li>
+            <ul class="ulin" style="margin-left: 1vw;">
+                <li>Leadership</li>
+                <li>Change Management</li>
+                <li style="margin-right:0;">International Management</li>
+            </ul>
         </li>
     </ul>
 </div>
