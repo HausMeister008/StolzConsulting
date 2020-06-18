@@ -23,7 +23,7 @@
 <hr id="start">
     <div id="body">
     <?php
-    include("content.php")
+    include("content_en.php")
     ?>
     </div>
 <script src="scripts.js"></script>

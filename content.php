@@ -4,16 +4,22 @@
         <li><a href="#work_content" id="towork"><b>work</b></a></li>
         <li><a href="#about_content" id="toabout"><b>about</b></a></li>
         <li><a href="#philosophy_content" id="tophilosophy"><b>philosophy</b></a></li>
-        <li><a href="#contact_content" id="tocontact"><b>contact</b></a></li>
+        <li><a href="#contact_content" id="tocontact" style="margin-right: 0vw;"><b>contact</b></a></li>
+        <!-- <li><a href="index_en.php">english</a></li> -->
     </ul>
 </div>
 
 <img src="imgs\Logo STOLZ + Tagline_Vecto Logo.png" id="img_start">
+<img src="imgs\Logo STOLZ Curve + Box_Vecto2.png" id="img_start_handy">
 <img src="imgs\Logo STOLZ + Tagline_Vecto Text.png" id="img_text">
 
 <div id="Einleitung" class="content">
     <p><i>Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken.</i></p>
+<<<<<<< HEAD
     <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>
+=======
+    <p id="signature">Prof. Dr. Ingo Stolz</p>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
 </div>
 <!-- <div id="lila" class="bgc-p">-->
 <div class="zwischenbild" id="lilahemd"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
@@ -21,6 +27,7 @@
 
 <div id="work_content" class="content">
     <h2>WORK</h2>
+<<<<<<< HEAD
     <div id="dazwischen" class="content">
     </div>
     <p>Wenn Mitarbeitende ihr Potential nutzen und einbringen. <br>
@@ -36,6 +43,16 @@
                 <li style="margin-right:0;">International Management</li>
             </ul>
         </li>
+=======
+    <ul id="ulwork">
+        <li>Wenn Mitarbeitende ihr Potential nutzen und einbringen. </li>
+        <li>Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.</li>
+        <li>Wenn das Unternehmen sich als wertige Marke etabliert.</li>
+        <li>Dann ist das Unternehmen wettbewerbsfähig.</li>
+    </ul>
+    <ul id="ulover">
+        <li>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
         <li>
             <ul class="ulin">
                 <li>Coaching</li>
@@ -43,6 +60,16 @@
                 <li>Training</li>
             </ul>
         </li>
+<<<<<<< HEAD
+=======
+        <li>
+            <ul class="ulin" style="margin-left: 1vw;">
+                <li>Leadership</li>
+                <li>Change Management</li>
+                <li style="margin-right:0;">International Management</li>
+            </ul>
+        </li>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
     </ul>
 </div>
 
@@ -58,13 +85,13 @@
     </p>
     <ul>
         <li>Grossunternehmen: Novartis, Abbott</li>
-        <li>Mittel-und Kleinunternehmen: Vitra, Aargauer Kantonalbank, Tschantré AG</li>
+        <li>Mittel-und Kleinunternehmen: Vitra, Aargauische Kantonalbank, Tschantré AG</li>
         <li>Regierungsorganisationen: Goethe-Institut, DAAD</li>
         <li>Nicht-Regierungsorganisationen: Netzwerk FernosT</li>
         <li>Öffentliche Einrichtungen: St. Elisabethen Krankenhaus</li>
         <li>Stiftungen: Robert Bosch Stiftung</li>
         <li>Bildungsinstitutionen: Universität Freiburg, Ohio State University,</li>
-        <li>University of Minnesota, Staatliche Amur-Universität).</li>
+        <li>University of Minnesota, Staatliche Amur-Universität.</li>
     </ul>
 </div>
 <!--<div id="untent" class="bgc-p">-->
@@ -80,7 +107,7 @@
         <li>Massgeschneiderte Lösungen notwendig sind für den Erfolg.</li>
         <li>Kontinuierliches und konzentriertes Arbeiten zielführender ist als ein einmalig spektakulärer Erfolg.</li>
         <li>Integrität, Ehrlichkeit und Transparenz unerlässlich sind für erfolgreiches Arbeiten.</li>
-        <li>Systemdenken wichtig ist, um komplexe Zusammenhänge zu verstehen, und die richtigen Lösungen zu identifizieren.</li>
+        <li>Systemdenken wichtig ist, um komplexe Zusammenhänge zu verstehen und die richtigen Lösungen zu identifizieren.</li>
         <li>Meine Hauptverantwortung in der effektiven und effizienten Entwicklung von organisatorischen und individuellen Kompetenzen liegt.</li>
         <li>Meine Arbeit Motivation, Innovation und Ansehen von Unternehmen stärkt, und diese Stärkung wiederum zu einer positiven Gesellschaftsentwicklung beiträgt.</li>
     </ul>
