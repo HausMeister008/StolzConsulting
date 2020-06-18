@@ -12,30 +12,45 @@
 <img src="imgs\Logo STOLZ + Tagline_Vecto Text.png" id="img_text">
 
 <div id="Einleitung" class="content">
-    <p>"Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken."</p>
+    <p><i>Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken.</i></p>
     <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>
 </div>
-<!-- <div id="lila" class="bgc-p">--> <div class="zwischenbild" id="lilahemd"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div><!--</div>-->
+<!-- <div id="lila" class="bgc-p">-->
+<div class="zwischenbild" id="lilahemd"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+<!--</div>-->
 
-<div id="work_content" class="content" >
+<div id="work_content" class="content">
     <h2>WORK</h2>
-    <div id="dazwischen" class="content" >
-    <ul>
-        <li>Change Management</li>
-        <li>Leadership</li>
-        <li style="margin-right:0;">International Management</li>
-    </ul>
-</div>
+    <div id="dazwischen" class="content">
+    </div>
     <p>Wenn Mitarbeitende ihr Potential nutzen und einbringen. <br>
         Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.<br>
         Wenn das Unternehmen sich als wertige Marke etabliert.<br>
         Dann ist das Unternehmen wettbewerbsfähig.<br>
     </p>
+    <ul id="ulover">
+        <li>
+            <ul class="ulin">
+                <li>Change Management</li>
+                <li>Leadership</li>
+                <li style="margin-right:0;">International Management</li>
+            </ul>
+        </li>
+        <li>
+            <ul class="ulin">
+                <li>Coaching</li>
+                <li>Consulting</li>
+                <li>Training</li>
+            </ul>
+        </li>
+    </ul>
 </div>
 
-<!-- <div id="carsten" class="bgc-p">--><div class="zwischenbild" id="Ingo-Carsten"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div><!--</div>-->
+<!-- <div id="carsten" class="bgc-p">-->
+<div class="zwischenbild" id="Ingo-Carsten"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+<!--</div>-->
 
-<div id="about_content" class="content" >
+<div id="about_content" class="content">
     <h2>ABOUT</h2>
     <p>Ich bin Berater, Coach und Trainer. An der Hochschule Luzern bin ich als Professor für International Leadership & Management tätig.
         Ich habe Veränderungen durchlebt, während 20+ internationaler Berufsjahre in Projekt-, Management- und Führungsfunktionen, in der Schweiz, Deutschland, Frankreich,
@@ -52,10 +67,12 @@
         <li>University of Minnesota, Staatliche Amur-Universität).</li>
     </ul>
 </div>
-<!--<div id="untent" class="bgc-p">--><div class="zwischenbild" id="Ingo_nach_unten_schauend"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div><!--</div>-->
+<!--<div id="untent" class="bgc-p">-->
+<div class="zwischenbild" id="Ingo_nach_unten_schauend"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
+<!--</div>-->
 
 
-<div id="philosophy_content" class="content" >
+<div id="philosophy_content" class="content">
     <h2>PHILOSOPHY</h2>
     <p>Ich bin davon überzeugt, dass</p>
     <ul>
@@ -71,7 +88,7 @@
 
 <div><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2692.317411195831!2d7.568275294882152!3d47.561612353395866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791b91acbe33809%3A0xc9a934453c31e943!2sH%C3%A4singerstrasse%2039%2C%204055%20Basel%2C%20Schweiz!5e0!3m2!1sde!2sde!4v1589185692609!5m2!1sde!2sde" frameborder="0" id="map" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
 
-<div id="contact_content" class="content" >
+<div id="contact_content" class="content">
     <h2>CONTACT</h2>
     <ul>
         <li>Stolz Consulting</li>

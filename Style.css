@@ -110,9 +110,13 @@ html{
     transform: scale(100%);
     opacity: 0;
 }
-#dazwischen ul{
+#dazwischen #ulover{
+    display: flex;
     list-style-type: none;
+}
+#dazwischen .ulin{
     display: grid;
+    list-style-type: none;
 }
 #dazwischen li{
     font-family: MeineSchriftart;
@@ -152,16 +156,27 @@ html{
 }
 #contact_content{
     text-align: center;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: #688d00;
     padding-right: 2%;
     margin-left: 25vw;
+    margin-top: 5%;
+    margin-bottom:10%;
+    margin-left: 0%;
+    padding-top: 0%;
+    width: 100%;
 }
 #contact_content ul{
     list-style-type: none;
+    padding: 5%;
+    padding-top: 1%;
+    padding-bottom: 3%;
 }
 #contact_content h2{
-    margin-left: 3%;
+    padding-top: 2%;
+    margin-left: -1%;
+    color: white;
+
 }
 .content{
     font-family: sans-serif;
