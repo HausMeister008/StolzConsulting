@@ -15,7 +15,11 @@
 
 <div id="Einleitung" class="content">
     <p><i>Ich baue mit Ihnen eine zukunftsfähige Führungs- und Lernkultur, um dadurch Motivation, Innovation und das Ansehen Ihres Unternehmens zu stärken.</i></p>
+<<<<<<< HEAD
+    <p style="margin-left:85%; width: 25%">Prof. Dr. Ingo Stolz</p>
+=======
     <p id="signature">Prof. Dr. Ingo Stolz</p>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
 </div>
 <!-- <div id="lila" class="bgc-p">-->
 <div class="zwischenbild" id="lilahemd"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></div>
@@ -23,6 +27,23 @@
 
 <div id="work_content" class="content">
     <h2>WORK</h2>
+<<<<<<< HEAD
+    <div id="dazwischen" class="content">
+    </div>
+    <p>Wenn Mitarbeitende ihr Potential nutzen und einbringen. <br>
+        Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.<br>
+        Wenn das Unternehmen sich als wertige Marke etabliert.<br>
+        Dann ist das Unternehmen wettbewerbsfähig.<br>
+    </p>
+    <ul id="ulover">
+        <li>
+            <ul class="ulin">
+                <li>Change Management</li>
+                <li>Leadership</li>
+                <li style="margin-right:0;">International Management</li>
+            </ul>
+        </li>
+=======
     <ul id="ulwork">
         <li>Wenn Mitarbeitende ihr Potential nutzen und einbringen. </li>
         <li>Wenn das Unternehmen Veränderungen vorhersieht und schnell (re-)agiert.</li>
@@ -31,6 +52,7 @@
     </ul>
     <ul id="ulover">
         <li>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
         <li>
             <ul class="ulin">
                 <li>Coaching</li>
@@ -38,6 +60,8 @@
                 <li>Training</li>
             </ul>
         </li>
+<<<<<<< HEAD
+=======
         <li>
             <ul class="ulin" style="margin-left: 1vw;">
                 <li>Leadership</li>
@@ -45,6 +69,7 @@
                 <li style="margin-right:0;">International Management</li>
             </ul>
         </li>
+>>>>>>> 62cad1b0ff362d907b3785448e6fd803b230ec0c
     </ul>
 </div>
 
