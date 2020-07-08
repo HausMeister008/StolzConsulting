@@ -3,7 +3,7 @@ var controller = new ScrollMagic.Controller();
 var Timeline = new TimelineMax();
 Timeline
 .fromTo("#img_text", 1, {autoAlpha: 0}, {autoAlpha:1}, 0.2)
-.fromTo("#Nav", 0.01, {autoAlpha:0}, {autoAlpha:1}, 0.99)
+.fromTo("#Nav", 0.01, {autoAlpha:0}, {autoAlpha:1}, 1.19)
 ;
 
 var scene = new ScrollMagic.Scene({

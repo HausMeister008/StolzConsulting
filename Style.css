@@ -237,7 +237,7 @@ html {
 
 @media (max-width: 1600px) {
     .ulin {
-        margin-left: -6.3vw;
+        margin-left: -5.3vw;
     }
     #Einleitung {
         margin-bottom: 39.5%;
@@ -262,13 +262,13 @@ html {
         width: 96vw;
     }
     #lilahemd {
-        background-image: url("imgs/Ingolilahemd handy.png");
+        background-image: url("imgs/Ingolilahemd handy.jpg");
     }
     #Ingo-Carsten {
-        background-image: url("imgs/IngoCarsten handy.png");
+        background-image: url("imgs/IngoCarstenHandy.jpg");
     }
     #Ingo_nach_unten_schauend {
-        background-image: url("imgs/Ingo Stolz Vortrag handy.png");
+        background-image: url("imgs/IngoStolzVortragHandy.jpg");
     }
     #map {
         width: 91vw;
@@ -327,10 +327,15 @@ html {
         font-size: 4vw;
         margin-left: -3vw;
     }
+    #Einleitung{
+        font-size: 3.5vw;
+    }
 
 }
 @media (max-width: 600px) {
-
+    #Nav ul li {
+        padding-bottom: 3%;
+    }
     #img_start{
         opacity: 0;
     }
@@ -350,6 +355,12 @@ html {
         margin-left: -5vw;
         margin-right: 10%;
     }
+    #map{
+        filter: grayscale(0);
+    }
+    /* .zwischenbild{
+        display: none;
+    } */
 }
 
 @media (max-width: 500px) {
@@ -373,5 +384,8 @@ html {
     .ulin ul li{
         font-size: 5vw;
         margin-right: 10%;
+    }
+    .ulin{
+        margin-left: -6.3vw;
     }
 }
